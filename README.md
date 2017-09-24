@@ -1,5 +1,5 @@
  
-# Fourchette Fork of TinyExpr
+# Fork of TinyExpr
 
 Fourchette Fork of TinyExpr is a very small recursive descent parser and evaluation engine for
 math expressions. It's handy when you want to add the ability to evaluation
